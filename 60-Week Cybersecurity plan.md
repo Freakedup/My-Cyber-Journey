@@ -1,4 +1,4 @@
-# 🛡️ 60-Week Cybersecurity Master Roadmap (2026 Edition)
+# 🛡️ 60-Week Cybersecurity plan
 > **Goal:** Zero to Job-Ready | **Pace:** 12 Hours/Week (2h/Day, 6 Days/Week)
 
 ---
